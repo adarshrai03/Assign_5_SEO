@@ -1,0 +1,16 @@
+Favicon :- A favicon is a small, typically square image or icon that is associated with a website. It is displayed in the browser's address bar, bookmarks, tabs, and sometimes in search results, providing a visual representation of the website. Favicon stands for "favorite icon" and was originally introduced by Microsoft with Internet Explorer.
+
+Syntax :- <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+
+Here are some key points about favicons:
+
+1. Size and Format: Favicons are usually 16x16 pixels or 32x32 pixels in size and are saved in .ico format. However, other image formats like PNG or GIF can also be used.
+
+2. Placement: The favicon file is typically placed in the root directory of a website, and it is specified in the HTML code using a link element in the head section of the page.
+
+3. Browser Compatibility: Most modern browsers support favicons, including Chrome, Firefox, Safari, and Microsoft Edge.
+
+4. Purpose: Favicons serve as a visual identifier for a website. They make it easy for users to recognize and locate a particular site, especially when multiple tabs are open.
+
+5. Accessibility: It's important to ensure that the favicon is recognizable even at small sizes. Simple, distinct images or logos work best.
